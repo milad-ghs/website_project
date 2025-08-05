@@ -1,0 +1,22 @@
+{
+  "helloWorld": "!Hello World",
+  "book": "Book",
+  "educational": "educational",
+  "exhibitive": "exhibitive",
+  "products": "Products",
+  "featured": "FEATURED PROJECTS",
+  "what": "WHAT WE DO",
+  "explore": "EXPLORE ALL",
+  "connect": "Contact us",
+  "iran": "Iran",
+  "germany": "Germany",
+  "qatar": "Qatar",
+  "name": "Full Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "send": "Send Message",
+  "message": "Enter your message",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
