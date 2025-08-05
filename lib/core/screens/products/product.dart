@@ -1,8 +1,8 @@
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter/material.dart';
 import 'package:website/core/utils/hover.dart';
-import 'package:website/core/widgets/item_we_do.dart';
-import 'package:website/core/widgets/products/moreproject.dart';
+import 'package:website/core/screens/item_we_do.dart';
+import 'package:website/core/screens/products/moreproject.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class Products extends StatefulWidget {

@@ -8,12 +8,12 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:lottie/lottie.dart';
 import 'package:video_player/video_player.dart';
 import 'package:website/core/bloc/language_cubit.dart';
-import 'package:website/core/widgets/bar.dart';
-import 'package:website/core/widgets/division.dart';
-import 'core/widgets/endpart.dart';
-import 'core/widgets/featured/futureproject.dart';
-import 'core/widgets/products/product.dart';
-import 'core/widgets/textbox.dart';
+import 'package:website/core/screens/bar.dart';
+import 'package:website/core/screens/division.dart';
+import 'core/screens/endpart.dart';
+import 'core/screens/featured/futureproject.dart';
+import 'core/screens/products/product.dart';
+import 'core/screens/textbox.dart';
 
 String languageFont = "Vazir";
 String languageLocal = "fa";
